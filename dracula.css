@@ -11,7 +11,7 @@
   --purple: #bd93f9;
   --red: #ff5555;
   --yellow: #f1fa8c;
-  --font: monospace; /*"FiraCode Nerd Font Mono";*/
+  --font: "Fantasque Sans Mono"
 
   --tridactyl-fg: var(--fg);
   --tridactyl-bg: var(--bg);
@@ -48,7 +48,7 @@
   padding: 1rem;
   color: var(--tridactyl-fg);
   width: 90%;
-  font-size: 1.5rem;
+  font-size: 1rem;
   line-height: 1.5;
   background: var(--tridactyl-bg);
   padding-left: unset;

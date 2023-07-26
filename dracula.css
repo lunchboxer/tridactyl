@@ -113,7 +113,6 @@
 
 #completions .BufferCompletionSource table {
   width: unset;
-  font-size: unset;
   border-spacing: unset;
   table-layout: unset;
 }
